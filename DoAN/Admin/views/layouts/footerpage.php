@@ -15,7 +15,7 @@
 						</ul>
 					</nav>
 					<div class="copyright ml-auto">
-						<?php $today = date("Y"); echo $today;?>, made with <i class="fa fa-heart heart text-danger"></i> by <a href="">Lê Nhật Hào</a>
+						<?php $today = date("Y"); echo $today;?>, made with <i class="fa fa-heart heart text-danger"></i> by <a href="">Vũ Tuấn Nghĩa và Thái Trương Đăng Khoa</a>
 					</div>				
 				</div>
 			</footer>

@@ -1,6 +1,6 @@
 <head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" charset="utf-8"/>
-	<title>Admin</title>
+	<title>Admin-One Music</title>
 	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
 	<link rel="icon" href="./views/assets/img/11111.jpg" type="image/x-icon"/>
 
