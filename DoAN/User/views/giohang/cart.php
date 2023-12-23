@@ -53,7 +53,7 @@
                                 <th>Số lượng</th>
                                 <th>Đơn giá</th>
                                 <th>Thành tiền</th>
-            
+                                <th>Hành động</th>
                             </tr>
                         </thead>
                         <tbody id="datarow">
