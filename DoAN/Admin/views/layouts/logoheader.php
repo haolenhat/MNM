@@ -1,7 +1,7 @@
 <div class="logo-header" data-background-color="dark2">
 				
 				<a href="" class="logo">
-					<img src="./views/assets/img/logo.pn" alt="navbar brand" class="navbar-brand">
+					<img src="./views/assets/img/logo.png" alt="navbar brand" class="navbar-brand">
 				</a>
 				<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon">
