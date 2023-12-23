@@ -35,7 +35,7 @@
         <label for="email">Username</label>
         <input type="text" name="email1">
         <label for="password">Password</label>
-        <input type="text" id="password" name="matkhau">
+        <input type="password" id="password" name="matkhau">
         <input type="submit" value="Đăng nhập" ></input>
       </form>
       </div>
