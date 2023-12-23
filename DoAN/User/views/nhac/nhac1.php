@@ -486,6 +486,6 @@
         </div>
     </section>
 
-    <?php include "views/layouts/footerpage.ph"; ?>
+    <?php include "views/layouts/footerpage.php"; ?>
   
  
